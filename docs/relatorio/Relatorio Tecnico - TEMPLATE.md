@@ -1,21 +1,21 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  Site Anti-Golpe ......
+ Site Anti-Golpe 
 
 `CURSO` 
 
-......  Trabalho Interdisciplinar: Aplicação Web, de Ciência da Computação, 1º Período PUC-Minas......
+ Trabalho Interdisciplinar: Aplicação Web, de Ciência da Computação, 1º Período PUC-Minas
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+Os membros do grupo são:
+Fabio Franco de Azevedo
+Felipe Tadeu Silva
+Jancker Nicolas Yauri Lazo De La Vega
+Pedro Lenti
+Renan Rocha de Souza
+Rodrigo Mendes Bicalho
 
 # Estrutura do Documento
 
