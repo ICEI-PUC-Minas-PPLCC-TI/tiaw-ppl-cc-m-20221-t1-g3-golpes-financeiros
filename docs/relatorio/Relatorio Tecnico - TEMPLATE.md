@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Site Anti-Golpe ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Trabalho Interdisciplinar: Aplicação Web, de Ciência da Computação, 1º Período PUC-Minas......
 
 ## Participantes
 
