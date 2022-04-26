@@ -56,18 +56,8 @@ Rodrigo Mendes Bicalho
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Conforme exposto, o problema que se busca resolver com este projeto são os golpes financeiros do cotidiano, que cresceram nas últimas décadas devido ao avanço tecnológico. Este proporcionou diversas maneiras de persuadir a vítima, como por exemplo: anúncios, redes sociais, mensagens e ligações celulares. Deste modo facilitando cada vez mais que novas pessoas sofram com estes golpes.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
 >
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -76,30 +66,26 @@ Rodrigo Mendes Bicalho
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral deste trabalho é a criação de um site informativo, com parceria com o governo, que proporciona informações de como os golpes funcionam, desde quando os criminosos tentam persuadir a vítima, prometendo um retorno financeiro e qualidade de vida, até como conseguem adquirir seus dados e assim sucessivamente. Deste modo, prevenindo a população de sofrerem com estas fraudes. 
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
+Como objetivos específicos, podemos ressaltar:
+- Fornecer atendimento à vítima, para certificar o que possivelmente é fraude ou não.
+- Integrar com a polícia, para descrever casos relatados de fraudes.
+- Permitir uma aba de relatos pessoais, que mesmo não terem recorrido a polícia, ainda podem ser úteis para os usuários.
+
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os crimes virtuais estão cada vez mais comuns e os usuários buscam alternativas para se proteger. De acordo com levantamento da Serasa Experian, no Brasil, ocorre uma tentativa de fraude a cada sete segundos. No último ano, houve o maior registro de ocorrências, com mais de 4 milhões de casos e alta de 16,8% em comparação a 2020. Dentre esses ataques cibernéticos, destaca-se a invasão nas redes sociais, quando o proprietário perde acesso e os hackers usam o perfil roubado para ‘vender’ produtos que não existem – como geladeiras, relógios e celulares – e aplicar golpes nos amigos do dono da conta.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
+> Além disso, houveram entrevistas por parte dos integrantes do grupo, que não só foram vítimas de golpe, mas também conhecia várias outras que sofreram com o mesmo. Um caso é o de Diogo que atualmente atua em esquema de pirâmide (hinode) e já sofreu um golpe pelo Whatsapp, ao proporcionarem um retorno de 800% do valor que o indivíduo iria pagar, sendo que não havia retorno algum.
+
+>Adicionalmente, há uma falta de canais de informações e objetivos que permitam a toda a população, indiferente da classe média, ter acesso e evitar as fraudes virtuais.
+
+
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
