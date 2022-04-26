@@ -9,13 +9,14 @@
 
 ## Participantes
 
-Os membros do grupo são:
+Os membros do grupo são: 
 -Fabio Franco de Azevedo
 -Felipe Tadeu Silva
 -Jancker Nicolas Yauri Lazo De La Vega
 -Pedro Lenti
 -Renan Rocha de Souza
 -Rodrigo Mendes Bicalho
+
 
 # Estrutura do Documento
 
