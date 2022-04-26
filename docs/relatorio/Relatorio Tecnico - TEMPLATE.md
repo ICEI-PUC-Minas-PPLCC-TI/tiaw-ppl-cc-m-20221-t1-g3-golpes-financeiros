@@ -11,7 +11,17 @@
 
 Os membros do grupo são: 
  
-Fabio Franco de Azevedo / Felipe Tadeu Silva / Jancker Nicolas Yauri Lazo De La Vega / Pedro Lenti Barbosa / Renan Rocha de Souza / Rodrigo Mendes Bicalho
+-Fabio Franco de Azevedo 
+
+-Felipe Tadeu Silva 
+
+-Jancker Nicolas Yauri Lazo De La Vega 
+
+-Pedro Lenti Barbosa 
+
+-Renan Rocha de Souza 
+
+-Rodrigo Mendes Bicalho
 
 
 
