@@ -81,7 +81,7 @@ Como objetivos específicos, podemos ressaltar:
 
 Os crimes virtuais estão cada vez mais comuns e os usuários buscam alternativas para se proteger. De acordo com levantamento da Serasa Experian, no Brasil, ocorre uma tentativa de fraude a cada sete segundos. No último ano, houve o maior registro de ocorrências, com mais de 4 milhões de casos e alta de 16,8% em comparação a 2020. Dentre esses ataques cibernéticos, destaca-se a invasão nas redes sociais, quando o proprietário perde acesso e os hackers usam o perfil roubado para ‘vender’ produtos que não existem – como geladeiras, relógios e celulares – e aplicar golpes nos amigos do dono da conta.
 
-> Além disso, houveram entrevistas por parte dos integrantes do grupo, que não só foram vítimas de golpe, mas também conhecia várias outras que sofreram com o mesmo. Um caso é o de Diogo que atualmente atua em esquema de pirâmide (hinode) e já sofreu um golpe pelo Whatsapp, ao proporcionarem um retorno de 800% do valor que o indivíduo iria pagar, sendo que não havia retorno algum.
+ Além disso, houveram entrevistas por parte dos integrantes do grupo, que não só foram vítimas de golpe, mas também conhecia várias outras que sofreram com o mesmo. Um caso é o de Diogo que atualmente atua em esquema de pirâmide (hinode) e já sofreu um golpe pelo Whatsapp, ao proporcionarem um retorno de 800% do valor que o indivíduo iria pagar, sendo que não havia retorno algum.
 
 >Adicionalmente, há uma falta de canais de informações e objetivos que permitam a toda a população, indiferente da classe média, ter acesso e evitar as fraudes virtuais.
 
@@ -91,19 +91,12 @@ Os crimes virtuais estão cada vez mais comuns e os usuários buscam alternativa
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Embora todas as pessoas possam se beneficiar de soluções isentas para se informarem, o foco deste trabalho está no público que não teve uma educação tanto social quanto escolar, para receber disciplina e saber diferenciar o que é um golpe e assim evitá-los.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
+Desta forma, estabeleceu-se como público-alvo desta solução, os homens e as mulheres que iniciam sua vida financeira, independente da idade, uma vez que a partir de seus dados bancários ou até qualquer dinheiro em mãos, podem vir a ser vítimas de golpe. 
+
+>Adicionalmente, o público-alvo hoje também pode ser considerado aqueles que possuem um maior contato com a internet, uma vez que os golpes atuais ocorrem com frequencia por este meio. 
+
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
