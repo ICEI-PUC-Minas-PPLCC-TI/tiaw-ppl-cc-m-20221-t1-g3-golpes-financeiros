@@ -262,7 +262,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > **Exemplo**:
 > 
-> ![Exemplo de User Flow](https://user-images.githubusercontent.com/103465655/165367687-8da41f41-981c-4a1f-bf19-0121b0f20e47.png)
+> ![Exemplo de User Flow]![Site golpes](https://user-images.githubusercontent.com/103465655/165368163-5beb81d0-8da1-41c0-a756-8b67676e51d1.png)
+
 
 
 
