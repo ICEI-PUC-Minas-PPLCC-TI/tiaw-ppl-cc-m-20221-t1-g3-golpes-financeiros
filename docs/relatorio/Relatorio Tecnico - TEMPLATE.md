@@ -288,7 +288,7 @@ Conteúdo - apresenta o conteúdo da tela em questão.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe]![Modelo (2)](https://user-images.githubusercontent.com/103465655/165369467-ab133894-3b5a-4629-ada0-e7d0f5496cab.png)
+> [Modelo (2)](https://user-images.githubusercontent.com/103465655/165369467-ab133894-3b5a-4629-ada0-e7d0f5496cab.png)
 
 
 
