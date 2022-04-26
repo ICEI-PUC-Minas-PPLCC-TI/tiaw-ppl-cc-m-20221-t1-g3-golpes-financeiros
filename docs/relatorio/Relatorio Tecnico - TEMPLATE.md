@@ -263,7 +263,7 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 >
 > **Exemplo**:
 > 
-> ![Exemplo de User Flow]![Site golpes](https://user-images.githubusercontent.com/103465655/165368163-5beb81d0-8da1-41c0-a756-8b67676e51d1.png)
+> ![Site golpes](https://user-images.githubusercontent.com/103465655/165368163-5beb81d0-8da1-41c0-a756-8b67676e51d1.png)
 
 
 
