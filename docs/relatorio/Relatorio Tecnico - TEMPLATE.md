@@ -111,36 +111,21 @@ Desta forma, estabeleceu-se como público-alvo desta solução, os homens e as m
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+> A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
+
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
+>As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![Exemplo de Persona] ![foto persona](https://user-images.githubusercontent.com/104034713/165441974-3ac40c53-74a5-496f-a760-56c2f8acab8c.png)
+
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
@@ -149,17 +134,17 @@ Desta forma, estabeleceu-se como público-alvo desta solução, os homens e as m
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO             | QUERO/PRECISO            |PARA                                              |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Henrique | Uma forma que minimize as chances de golpes virtuais           | para que possa tornar meu trabalho de dropshipping mais seguro         |
+| Gabriel  | uma verificação para a empresa, para que não caia em golpes de clientes e verificação para whatsapp em golpes com a família.                 |para que possa fechar negócios online mais tranquilamente, sem risco de ser passado para trás e para que não caia em golpes no whatsapp. |
+| Ananias  | uma forma que me alerte quando uma proposta de algum olheiro ou clube for real e confiável.   | para que consiga tornar real o sonho de se tornar jogador profissional, sem ser passado para trás. |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
+> O gabriel Já caiu em golpe de estelionato
+> conhecido como 'golpe do Pix"
+> onde o golpista pede uma quantia de dinheiro, prometendo devolver um valor maior do que foi recebido
+> porém, o dinheiro não é devolvido.
+
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -173,16 +158,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| A aplicação deve apresentar, para cada golpe, uma imagem correspondente. | ALTA | 
+|RF-002| A aplicação deve oferecer uma opção de cadastro, para comentários, feedbacks e dicas.  | MÉDIA |
+|RF-003| A aplicação deve permitir ao usuário visualizar o texto completo (sobre o golpe , informações, como é feito e soluções). | ALTA | 
+|RF-004| A aplicação deve oferecer um menu adicional que permita ao usuário visualizar informações de outras fontes.  | MÉDIA |
+|RF-005| A aplicação deve ter uma barra de pesquisa, para direcionar o usuário para o ponto de seu interesse. | ALTA | 
+|RF-006| A aplicação deve ter uma página inicial chamativa para prender o usuário.   | MÉDIA |
+|RF-007| A aplicação deve ter uma opção de compartilhamento em redes sociais. | BAIXA | 
+|RF-008| A aplicação deve permitir salvar notícias preferidas.   | BAIXA |
+|RF-009| A aplicação deve exibir os comentários feitos pelos usuários juntamente com o golpe comentado. | BAIXA | 
+|RF-010| A aplicação deve perguntar a idade para o seu usuário, para ter um controle de público alvo.   | BAIXA |
+|RF-011| A aplicação deve ser compatível com mobile.  | ALTA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001|A aplicação deverá ser responsivo permitindo a visualização em um celular de forma adequada | ALTA | 
+|RNF-002|A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade  |  MÉDIA | 
+|RNF-003| A aplicação deve ser compatível com os principais navegadores do mercado |  ALTA | 
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -212,8 +208,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo. |
+|02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
