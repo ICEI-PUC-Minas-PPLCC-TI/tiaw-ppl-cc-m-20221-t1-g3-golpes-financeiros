@@ -66,11 +66,6 @@ Os membros do grupo são:
 
 Conforme exposto, o problema que se busca resolver com este projeto são os golpes financeiros do cotidiano, que cresceram nas últimas décadas devido ao avanço tecnológico. Este proporcionou diversas maneiras de persuadir a vítima, como por exemplo: anúncios, redes sociais, mensagens e ligações celulares. Deste modo facilitando cada vez mais que novas pessoas sofram com estes golpes.
 
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -82,20 +77,15 @@ Como objetivos específicos, podemos ressaltar:
 - Permitir uma aba de relatos pessoais, que mesmo não terem recorrido a polícia, ainda podem ser úteis para os usuários.
 
 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 Os crimes virtuais estão cada vez mais comuns e os usuários buscam alternativas para se proteger. De acordo com levantamento da Serasa Experian, no Brasil, ocorre uma tentativa de fraude a cada sete segundos. No último ano, houve o maior registro de ocorrências, com mais de 4 milhões de casos e alta de 16,8% em comparação a 2020. Dentre esses ataques cibernéticos, destaca-se a invasão nas redes sociais, quando o proprietário perde acesso e os hackers usam o perfil roubado para ‘vender’ produtos que não existem – como geladeiras, relógios e celulares – e aplicar golpes nos amigos do dono da conta.
 
  Além disso, houveram entrevistas por parte dos integrantes do grupo, que não só foram vítimas de golpe, mas também conhecia várias outras que sofreram com o mesmo. Um caso é o de Diogo que atualmente atua em esquema de pirâmide (hinode) e já sofreu um golpe pelo Whatsapp, ao proporcionarem um retorno de 800% do valor que o indivíduo iria pagar, sendo que não havia retorno algum.
 
->Adicionalmente, há uma falta de canais de informações e objetivos que permitam a toda a população, indiferente da classe média, ter acesso e evitar as fraudes virtuais.
+Adicionalmente, há uma falta de canais de informações e objetivos que permitam a toda a população, indiferente da classe média, ter acesso e evitar as fraudes virtuais.
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -103,16 +93,14 @@ Embora todas as pessoas possam se beneficiar de soluções isentas para se infor
 
 Desta forma, estabeleceu-se como público-alvo desta solução, os homens e as mulheres que iniciam sua vida financeira, independente da idade, uma vez que a partir de seus dados bancários ou até qualquer dinheiro em mãos, podem vir a ser vítimas de golpe. 
 
->Adicionalmente, o público-alvo hoje também pode ser considerado aqueles que possuem um maior contato com a internet, uma vez que os golpes atuais ocorrem com frequencia por este meio. 
+Adicionalmente, o público-alvo hoje também pode ser considerado aqueles que possuem um maior contato com a internet, uma vez que os golpes atuais ocorrem com frequencia por este meio. 
 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
  
 # Especificações do Projeto
 
 
-> A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
+ A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 
 ## Personas e Mapas de Empatia
@@ -124,7 +112,7 @@ Desta forma, estabeleceu-se como público-alvo desta solução, os homens e as m
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona] ![foto persona](https://user-images.githubusercontent.com/104034713/165441974-3ac40c53-74a5-496f-a760-56c2f8acab8c.png)
+> ![foto persona](https://user-images.githubusercontent.com/104034713/165441974-3ac40c53-74a5-496f-a760-56c2f8acab8c.png)
 
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
@@ -146,10 +134,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > porém, o dinheiro não é devolvido.
 
 >
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -177,29 +161,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001|A aplicação deverá ser responsivo permitindo a visualização em um celular de forma adequada | ALTA | 
 |RNF-002|A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade  |  MÉDIA | 
-|RNF-003| A aplicação deve ser compatível com os principais navegadores do mercado |  ALTA | 
+|RNF-003|A aplicação deve ser compatível com os principais navegadores do mercado |  ALTA | 
+|RNF-004|O sistema deverá atender às normas legais de direitos autorais    |  MÉDIA  |
 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 ## Restrições
@@ -212,22 +176,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 # Projeto de Interface
 
 Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
@@ -238,12 +191,7 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
 > para alinhar os caminhos e as possíveis ações que o usuário pode
 > fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
+
 > **Exemplo**:
 > 
 > ![Site golpes](https://user-images.githubusercontent.com/103465655/165368163-5beb81d0-8da1-41c0-a756-8b67676e51d1.png)
@@ -263,12 +211,7 @@ Conteúdo - apresenta o conteúdo da tela em questão.
 > páginas. Um wireframe web é uma ilustração semelhante ao
 > layout de elementos fundamentais na interface.
 > 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
+
 > **Exemplo**:
 > 
 > ![Modelo (2)](https://user-images.githubusercontent.com/103465655/165369467-ab133894-3b5a-4629-ada0-e7d0f5496cab.png)
@@ -277,18 +220,9 @@ Conteúdo - apresenta o conteúdo da tela em questão.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
+As metodologias adotadas pelo grupo foram Design Thinking e Scrum Framework, com elas tivemos uma maior controle sobre o Sprint, pois seguimos etapa por etapa,
+como: Brainstorm, levantamento e empatia com o usuário, definição do problema a ser tratado, diagramas de personas e motangens de mapas de empatia. Adicionalmente, 
+também foram realizadas análises, ideação, backlog do produto e do Sprint em questão, a partir de reuniões no Discord. E por fim, documentado na ferramenta Github.
 
 ## Divisão de Papéis
 
