@@ -227,7 +227,8 @@ também foram realizadas análises, ideação, backlog do produto e do Sprint em
 ## Divisão de Papéis
 
 
-| Membro | Função
+| Membro | Função |
+|-----------|-------------------------|---------------|
 |Fabio Franco |  Desenvolvedor | 
 |Felipe Tadeu  | Desenvolvedor | 
 |Pedro Lenti | Desenvolvedor e scrum master | 
@@ -242,14 +243,10 @@ também foram realizadas análises, ideação, backlog do produto e do Sprint em
 
 
 | Ambiente  | Plataforma              |Link de Acesso |
-|Figma |
-|GitHub |
-|Microsoft Teams |
-|Visual Studio Code |
-|WhatsApp |
+|-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBuASRI=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1-g3-golpes-financeiros | 
-|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/n5r2nq3x2T2wNz3fkg2KNS/Untitled?node-id=0%3A1 | 
+|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/n5r2nq3x2T2wNz3fkg2KNS/Untitled?node-id=0%3A1 || https://marvelapp.com/prototype/ddg9906 | 
                                              
 
 
