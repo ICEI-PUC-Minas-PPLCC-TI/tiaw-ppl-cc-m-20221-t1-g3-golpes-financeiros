@@ -227,15 +227,11 @@ também foram realizadas análises, ideação, backlog do produto e do Sprint em
 ## Divisão de Papéis
 
 
-| Membro | Função |
-|-----------|-------------------------|---------------|
-|Fabio Franco |  Desenvolvedor | 
-|Felipe Tadeu  | Desenvolvedor | 
-|Pedro Lenti | Desenvolvedor e scrum master | 
-|Renan Rocha | Desenvolvedor | 
-|Rodrigo Bicalho | Desenvolvedor | 
-|Jancker Nicolas | Desenvolvedor |
-|Puc-Minas | Product Owner |
+| Membros  |Função         |
+|-----------|--------------|
+|Fabio Franco| Desenvolvedor | 
+|Felipe Tadeu | Desenvolvedor | 
+|Pedro Lenti | Desenvolvedor | 
 
 
 ## Ferramentas
