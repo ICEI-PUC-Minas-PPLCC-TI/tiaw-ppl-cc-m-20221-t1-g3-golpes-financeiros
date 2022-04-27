@@ -309,8 +309,8 @@ Conteúdo - apresenta o conteúdo da tela em questão.
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBuASRI=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1-g3-golpes-financeiros | 
-|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/n5r2nq3x2T2wNz3fkg2KNS/Untitled?node-id=0%3A1
-                                            https://marvelapp.com/prototype/ddg9906 ||  | 
+|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/n5r2nq3x2T2wNz3fkg2KNS/Untitled?node-id=0%3A1 | 
+                                             
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
