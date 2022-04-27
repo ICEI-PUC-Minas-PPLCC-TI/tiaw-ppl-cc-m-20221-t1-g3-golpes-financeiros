@@ -231,7 +231,10 @@ também foram realizadas análises, ideação, backlog do produto e do Sprint em
 |-----------|--------------|
 |Fabio Franco| Desenvolvedor | 
 |Felipe Tadeu | Desenvolvedor | 
-|Pedro Lenti | Desenvolvedor | 
+|Pedro Lenti | Desenvolvedor & Scrum Master | 
+|Renan Rocha | Desenvolvedor | 
+|Rodrigo Bicalho | Desenvolvedor | 
+|Jancker Nicolas | Desenvolvedor | 
 
 
 ## Ferramentas
@@ -243,9 +246,8 @@ também foram realizadas análises, ideação, backlog do produto e do Sprint em
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBuASRI=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1-g3-golpes-financeiros | 
 |Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/n5r2nq3x2T2wNz3fkg2KNS/Untitled?node-id=0%3A1 || https://marvelapp.com/prototype/ddg9906 | 
+
                                              
-
-
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. O Miro foi utilizado para organizar o processo durante do Design Thinking. Por fim, para criar o protótipo, o Figma foi escolhido por melhor captar as necessidades da equipe.
 
 
