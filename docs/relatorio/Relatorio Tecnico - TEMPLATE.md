@@ -171,9 +171,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
-|--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue no final do semestre letivo. |
 |02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
+|03| Não devem ser feitos aportes financeiros no projeto |
 
 
 
@@ -226,48 +226,35 @@ também foram realizadas análises, ideação, backlog do produto e do Sprint em
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+| Membro | Função
+|Fabio Franco |  Desenvolvedor | 
+|Felipe Tadeu  | Desenvolvedor | 
+|Pedro Lenti | Desenvolvedor e scrum master | 
+|Renan Rocha | Desenvolvedor | 
+|Rodrigo Bicalho | Desenvolvedor | 
+|Jancker Nicolas | Desenvolvedor |
+|Puc-Minas | Product Owner |
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+
 
 | Ambiente  | Plataforma              |Link de Acesso |
-|-----------|-------------------------|---------------|
+|Figma |
+|GitHub |
+|Microsoft Teams |
+|Visual Studio Code |
+|WhatsApp |
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBuASRI=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1-g3-golpes-financeiros | 
 |Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/n5r2nq3x2T2wNz3fkg2KNS/Untitled?node-id=0%3A1 | 
                                              
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
+O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. O Miro foi utilizado para organizar o processo durante do Design Thinking. Por fim, para criar o protótipo, o Figma foi escolhido por melhor captar as necessidades da equipe.
+
 
 ## Controle de Versão
 
