@@ -170,10 +170,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|01| O projeto deverá ser entregue no final do semestre letivo. |
-|02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
-|03| Não devem ser feitos aportes financeiros no projeto |
+|ID| Descrição do Requisito  |
+|--|-------------------------|
+|01|O projeto deverá ser entregue no final do semestre letivo | 
+|02|A equipe não pode subcontratar o desenvolvimento do trabalho | 
+|03|Não devem ser feitos aportes financeiros no projeto | 
 
 
 
@@ -229,9 +230,9 @@ também foram realizadas análises, ideação, backlog do produto e do Sprint em
 
 | Membros  |Função         |
 |-----------|--------------|
-|Fabio Franco| Desenvolvedor | 
-|Felipe Tadeu | Desenvolvedor | 
 |Pedro Lenti | Desenvolvedor & Scrum Master | 
+|Fabio Franco | Desenvolvedor | 
+|Felipe Tadeu|  Desenvolvedor | 
 |Renan Rocha | Desenvolvedor | 
 |Rodrigo Bicalho | Desenvolvedor | 
 |Jancker Nicolas | Desenvolvedor | 
