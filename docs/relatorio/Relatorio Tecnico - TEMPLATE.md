@@ -289,11 +289,6 @@ Conteúdo - apresenta o conteúdo da tela em questão.
 > o andamento do projeto, a execução das tarefas e o status de desenvolvimento
 > da solução.
 > 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
@@ -312,10 +307,9 @@ Conteúdo - apresenta o conteúdo da tela em questão.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBuASRI=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1-g3-golpes-financeiros | 
+|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/n5r2nq3x2T2wNz3fkg2KNS/Untitled?node-id=0%3A1 || https://marvelapp.com/prototype/ddg9906 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -370,10 +364,7 @@ Conteúdo - apresenta o conteúdo da tela em questão.
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
 > - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 > - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
