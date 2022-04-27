@@ -1,11 +1,11 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`iScam`  
 
   
 
-`CURSO` 
+`Trabalho Interdisciplinar: Aplicação Web, de Ciência da Computação, 1º Período PUC-Minas` 
 
- Trabalho Interdisciplinar: Aplicação Web, de Ciência da Computação, 1º Período PUC-Minas
+ 
 
 ## Participantes
 
