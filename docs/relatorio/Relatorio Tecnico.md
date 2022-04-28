@@ -124,9 +124,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO             | QUERO/PRECISO            |PARA                                              |
 |--------------------|------------------------------------|----------------------------------------|
-| Henrique | Uma forma que minimize as chances de golpes virtuais           | para que possa tornar meu trabalho de dropshipping mais seguro         |
-| Gabriel  | uma verificação para a empresa, para que não caia em golpes de clientes e verificação para whatsapp em golpes com a família.                 |para que possa fechar negócios online mais tranquilamente, sem risco de ser passado para trás e para que não caia em golpes no whatsapp. |
-| Ananias  | uma forma que me alerte quando uma proposta de algum olheiro ou clube for real e confiável.   | para que consiga tornar real o sonho de se tornar jogador profissional, sem ser passado para trás. |
+| Henrique | Uma forma que minimize as chances de golpes virtuais           | Para que possa tornar meu trabalho de dropshipping mais seguro         |
+| Gabriel  | uma verificação para a empresa, para que não caia em golpes de clientes e verificação para whatsapp em golpes com a família.                 |Para que possa fechar negócios online mais tranquilamente, sem risco de ser passado para trás e para que não caia em golpes no whatsapp. |
+| Ananias  | uma forma que me alerte quando uma proposta de algum olheiro ou clube for real e confiável.   | Para que consiga tornar real o sonho de se tornar jogador profissional, sem ser passado para trás. |
 
 > O gabriel Já caiu em golpe de estelionato
 > conhecido como 'golpe do Pix"
