@@ -298,7 +298,7 @@ etiquetas:
 # Projeto da Solução
 
 Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns em atividade nos dias atuais, e explicar ao público como eles são postos em prática. Assim, o público consegue se previnir adequadamente, e evitar que caiam em mais golpes.
-| Local Storage | NOME |
+| Local Storage | O que  |
 |------|------|
 | Cadastro de golpes | registro de notícias sobre os golpes |
 | Cadastro de entidades | Cadastro do indivíduo no Blog |
