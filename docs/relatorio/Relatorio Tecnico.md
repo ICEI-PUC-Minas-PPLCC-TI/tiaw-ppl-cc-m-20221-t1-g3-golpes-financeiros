@@ -327,10 +327,6 @@ Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns
 
 
 # Avaliação da Aplicação
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 > Template do Site
 ![pagina principal](https://user-images.githubusercontent.com/103465655/177856422-bcfa397d-ab0d-4a46-89a3-f7f4d6742d93.png)
 
@@ -346,6 +342,10 @@ Entrega Sprint 1 - Visualização de Notícias (RF-01 e RF-02)
 Pesquisa de Notícias (RF-05)
 ![pesquisa](https://user-images.githubusercontent.com/103465655/177857187-a6d5f1b3-598f-4223-939d-3c6d607e81d0.png)
 
+
+> Apresente os cenários de testes utilizados na realização dos testes da
+> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
+> sendo satisfeitos.
 
 ## Plano de Testes
 
