@@ -329,6 +329,8 @@ Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns
 # Avaliação da Aplicação
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+(https://user-images.githubusercontent.com/103465655/177856219-e8be99e9-6c00-40db-bca1-8331d8b9cfc8.png)
+
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
