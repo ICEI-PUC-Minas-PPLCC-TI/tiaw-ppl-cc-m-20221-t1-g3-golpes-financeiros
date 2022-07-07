@@ -337,11 +337,13 @@ A solução implementada contou com o navegador: páginas web como conjunto de a
 Os testes foram fundamentais para identificar falhas no desenvolvimento e na experiência do usuário.
 
 ## Registros de Testes
+Os resultados obtidos nos testes de usabilidade realizados são descritos a seguir.
+
 # Pontos Fracos
 
-1- Barra de pesquisar não possuir funcionalidade.
+> Barra de pesquisar não possuir funcionalidade.
 
-2- Parte de comentários não funcional.
+> Parte de comentários não funcional.
 
 # Pontos Fortes
 > Notícias bem conteúdistas.
