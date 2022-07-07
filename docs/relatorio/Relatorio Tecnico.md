@@ -344,19 +344,19 @@ Os testes foram fundamentais para identificar falhas no desenvolvimento e na exp
 2- Parte de comentários não funcional.
 
 # Pontos Fortes
-1- Notícias bem conteúdistas.
+> Notícias bem conteúdistas.
 
-2- Gráficos interativos montados a partir de java.
+> Gráficos interativos montados a partir de java.
 
-3- Funcionalidade da aplicação.
+> Funcionalidade da aplicação.
 
-4- Funcionalidade de cadastro e login.
+> Funcionalidade de cadastro e login.
 
 # Referências
 
 ## Fontes utilizadas para a idealização do projeto
- 1- https://www.bv.com.br/bv-inspira/seguranca/golpes-financeiros
+ > https://www.bv.com.br/bv-inspira/seguranca/golpes-financeiros
  
- 2- https://www.serasa.com.br/premium/blog/4-golpes-comuns
+ > https://www.serasa.com.br/premium/blog/4-golpes-comuns
  
- 3- https://www.youtube.com/watch?v=GDpi6QrN0Ws
+ > https://www.youtube.com/watch?v=GDpi6QrN0Ws
