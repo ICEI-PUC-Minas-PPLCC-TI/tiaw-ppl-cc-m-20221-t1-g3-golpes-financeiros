@@ -340,12 +340,16 @@ Os testes foram fundamentais para identificar falhas no desenvolvimento e na exp
 # Pontos Fracos
 
 1- Barra de pesquisar não possuir funcionalidade.
+
 2- Rodapé mal colocado.
 
 # Pontos Fortes
 1- Notícias bem conteúdistas.
+
 2- Gráficos interativos montados a partir de java.
+
 3- Funcionalidade da aplicação.
+
 4- Funcionalidade de cadastro e login.
 
 # Referências
