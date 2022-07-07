@@ -362,17 +362,6 @@ Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns
 ## Avaliação
 Os testes foram fundamentais para identificar falhas no desenvolvimento e na experiência do usuário.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-
 ## Registros de Testes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
