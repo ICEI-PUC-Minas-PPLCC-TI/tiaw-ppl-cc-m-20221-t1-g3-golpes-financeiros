@@ -291,10 +291,6 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
 # Projeto da Solução
 
 Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns em atividade nos dias atuais, e explicar ao público como eles são postos em prática. Assim, o público consegue se previnir adequadamente, e evitar que caiam em mais golpes.
@@ -318,61 +314,39 @@ Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns
 A solução implementada contou com o navegador: páginas web como conjunto de arquvios HTML,CSS,JAVASCRIPT, IMAGENS e tabelas que implementam a funcionalidade do sistema. 
 | Local Storage | O que  |
 |------|------|
-| Cadastro de golpes | registro de notícias sobre os golpes |
+| Cadastro de golpes | Registro de notícias sobre os golpes |
 | Cadastro de entidades | Cadastro do indivíduo no Blog |
-| News API | plataforma que permite o acesso às notícias exibidas no site|
+| News API | Plataforma que permite o acesso às notícias exibidas no site|
 | Framework | Bootstrap |
-| Hospedagem | local na Internet onde as páginas são mantidas e acessadas pelo navegador |
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+| Hospedagem | Local na Internet onde as páginas são mantidas e acessadas pelo navegador |
 
 ## Plano de testes
 
 # Avaliação da Aplicação
-> Template do Site
-
-![pagina principal](https://user-images.githubusercontent.com/103465655/177856422-bcfa397d-ab0d-4a46-89a3-f7f4d6742d93.png)
-
->Tela Principal
-
-![PAgina principal c infos](https://user-images.githubusercontent.com/103465655/177856602-5bacb885-c80c-4661-9029-d650f1ba97ff.png)
-
->Tela de Visualização de Notícias
-
-![pagina golpe](https://user-images.githubusercontent.com/103465655/177856616-b74ab8a0-de9b-4f89-91fc-f9d06bc3915b.png)
-
->Entrega Sprint 1 - Visualização de Notícias (RF-01 e RF-02)
-
-![pagina pesquisa](https://user-images.githubusercontent.com/103465655/177856629-f7979210-5477-4f85-8a36-3b8691eacd4a.png)
-
->Pesquisa de Notícias (RF-05)
-
-![pesquisa](https://user-images.githubusercontent.com/103465655/177857187-a6d5f1b3-598f-4223-939d-3c6d607e81d0.png)
-
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 | ID | CENÁRIO | REQUISITO RELACIONADO |
 |----|---------|-----------------------|
-| 1 | Cadastrar um investimento <br><br> Passo a passo: <br> 1. Fazer login <br> 2. Abrir o menu no painel <br> 3. Clicar em "Portfólio" <br> 4. Clicar no botão "Adicionar criptomoedas" <br> 5. Preencher os campos <br> 6. Clicar no botão "Inserir" <br><br> Após clicar no botão, o sistema mostrará a aplicação em uma lista contento o histórico de aplicações. | RF-001 |
-| 2 | Ver o desempenho dos investimentos <br><br> Passo a passo: <br> 1. Fazer login <br> 2. Abrir o menu no painel <br> 3. Clicar em "Portfólio" <br><br> Após o carregamento da página, o usuário poderá ver o valor atual da sua carteira, tendo a opção de ver esse valor em reais, dólares e euros. Verá também um gráfico com a distribuição do patrimônio e uma tabela com o histórico das aplicações e seus desempenhos de acordo com a cotação atual. | RF-003 |
-| 3 | Ver informações de uma criptomoeda/token <br><br> Passo a passo: <br> 1. Fazer login <br> 2. Clicar no campo de busca no topo da página <br> 3. Digitar o nome de um ativo e apertar enter <br><br> Após o envio da busca, o sistema retornará uma tela com os detalhes do ativo buscado. | RF-004 |
+| 1 | Cadastrar o indíviduo <br><br> Passo a passo: <br> 1. Fazer cadastro <br> 2. Fazer Login <br> 3. Clicar em "Entrar" <br>  <br><br> Após clicar no botão, o sistema mostrará a aplicação em uma série de notícias e conteúdos. | RF-001 |
+| 2 | Analisar as notícias <br><br> Passo a passo: <br> 1. Estar logado <br> 2. Abrir a página inicial <br> 3. Clicar em algum golpe de sua escolha <br><br> Após o carregamento da página, o usuário poderá ver o conteúdo explícito, do golpe específico. Nele terá informações de como o golpe é realidade, como se prevenir e o que fazer caso cair. | RF-003 |
+| 3 | Analisar outras notícias <br><br> Passo a passo: <br> 1. Estar logado <br> 2. Clicar na logo do site <br> 3. Visualizar a página inicial <br><br> Clicar em outro golpe específico. Após clicar na logo do site, o usuário será redirecionado para a página inicial. | RF-004 |
+
+
 
 ## Avaliação
 Os testes foram fundamentais para identificar falhas no desenvolvimento e na experiência do usuário.
 
 ## Registros de Testes
+# Pontos Fracos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1- Barra de pesquisar não possuir funcionalidade.
+2- Rodapé mal colocado.
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+# Pontos Fortes
+1- Notícias bem conteúdistas.
+2- Gráficos interativos montados a partir de java.
+3- Funcionalidade da aplicação.
+4- Funcionalidade de cadastro e login.
 
 # Referências
 
