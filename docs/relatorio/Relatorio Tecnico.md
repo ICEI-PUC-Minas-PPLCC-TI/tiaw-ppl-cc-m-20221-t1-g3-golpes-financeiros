@@ -339,9 +339,9 @@ Os testes foram fundamentais para identificar falhas no desenvolvimento e na exp
 ## Registros de Testes
 # Pontos Fracos
 
-1- Barra de pesquisar não possuir funcionalidade.
+> Barra de pesquisar não possuir funcionalidade.
 
-2- Parte de comentários não funcional.
+> Parte de comentários não funcional.
 
 # Pontos Fortes
 > Notícias bem conteúdistas.
