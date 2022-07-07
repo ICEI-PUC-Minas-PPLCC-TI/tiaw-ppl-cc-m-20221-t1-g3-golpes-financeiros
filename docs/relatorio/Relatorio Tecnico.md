@@ -355,6 +355,6 @@ Os testes foram fundamentais para identificar falhas no desenvolvimento e na exp
 # Referências
 
 ## Fontes utilizadas para a idealização do projeto
-  https://www.bv.com.br/bv-inspira/seguranca/golpes-financeiros
-  https://www.serasa.com.br/premium/blog/4-golpes-comuns
-  https://www.youtube.com/watch?v=GDpi6QrN0Ws
+ 1- https://www.bv.com.br/bv-inspira/seguranca/golpes-financeiros
+ 2- https://www.serasa.com.br/premium/blog/4-golpes-comuns
+ 3- https://www.youtube.com/watch?v=GDpi6QrN0Ws
