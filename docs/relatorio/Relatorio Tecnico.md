@@ -328,6 +328,7 @@ Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns
 
 # Avaliação da Aplicação
 > Template do Site
+
 ![pagina principal](https://user-images.githubusercontent.com/103465655/177856422-bcfa397d-ab0d-4a46-89a3-f7f4d6742d93.png)
 
 Tela Principal
