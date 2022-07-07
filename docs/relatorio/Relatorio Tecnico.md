@@ -298,6 +298,13 @@ etiquetas:
 # Projeto da Solução
 
 Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns em atividade nos dias atuais, e explicar ao público como eles são postos em prática. Assim, o público consegue se previnir adequadamente, e evitar que caiam em mais golpes.
+| Local Storage | NOME |
+|------|------|
+| Cadastro de golpes | registro de notícias sobre os golpes |
+| Cadastro de entidades | Cadastro do indivíduo no Blog |
+| News API | plataforma que permite o acesso às notícias exibidas no site|
+| Framework | Bootstrap |
+| Hospedagem | local na Internet onde as páginas são mantidas e acessadas pelo navegador |
 
 ## Tecnologias Utilizadas
 
@@ -314,6 +321,8 @@ Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns
 | Hospedagem | GitHub Pages |
 
 ## Arquitetura da solução
+
+A solução implementada contou com o navegador: páginas web como conjunto de arquvios HTML,CSS,JAVASCRIPT, IMAGENS e tabelas que implementam a funcionalidade do sistema. 
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
