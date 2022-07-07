@@ -291,84 +291,66 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso projeto de solução foi montar um Blog (site) sobre os golpes mais comuns em atividade nos dias atuais, e explicar ao público como eles são postos em prática. Assim, o público consegue se previnir adequadamente, e evitar que caiam em mais golpes.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+| TIPO | NOME |
+|------|------|
+| Linguagem de marcação | HTML |
+| Linguagem de estilo | CSS |
+| Linguagem de programação | JavaScript |
+| Framework | Bootstrap |
+| Biblioteca | jQuery |
+| IDE | Visual Studio Code |
+| Versionamento de código | Git |
+| Controle de versão compartilhado | GitHub |
+| Hospedagem | GitHub Pages |
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+A solução implementada contou com o navegador: páginas web como conjunto de arquvios HTML,CSS,JAVASCRIPT, IMAGENS e tabelas que implementam a funcionalidade do sistema. 
+| Local Storage | O que  |
+|------|------|
+| Cadastro de golpes | Registro de notícias sobre os golpes |
+| Cadastro de entidades | Cadastro do indivíduo no Blog |
+| News API | Plataforma que permite o acesso às notícias exibidas no site|
+| Framework | Bootstrap |
+| Hospedagem | Local na Internet onde as páginas são mantidas e acessadas pelo navegador |
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
-
+## Plano de testes
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
 ## Plano de Testes
+| ID | CENÁRIO | REQUISITO RELACIONADO |
+|----|---------|-----------------------|
+| 1 | Cadastrar o indíviduo <br><br> Passo a passo: <br> 1. Fazer cadastro <br> 2. Fazer Login <br> 3. Clicar em "Entrar" <br>  <br><br> Após clicar no botão, o sistema mostrará a aplicação em uma série de notícias e conteúdos. | RF-001 |
+| 2 | Analisar as notícias <br><br> Passo a passo: <br> 1. Estar logado <br> 2. Abrir a página inicial <br> 3. Clicar em algum golpe de sua escolha <br><br> Após o carregamento da página, o usuário poderá ver o conteúdo explícito, do golpe específico. Nele terá informações de como o golpe é realidade, como se prevenir e o que fazer caso cair. | RF-003 |
+| 3 | Analisar outras notícias <br><br> Passo a passo: <br> 1. Estar logado <br> 2. Clicar na logo do site <br> 3. Visualizar a página inicial <br><br> Clicar em outro golpe específico. Após clicar na logo do site, o usuário será redirecionado para a página inicial. | RF-004 |
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+## Avaliação
+Os testes foram fundamentais para identificar falhas no desenvolvimento e na experiência do usuário.
 
 ## Registros de Testes
+# Pontos Fracos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1- Barra de pesquisar não possuir funcionalidade.
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+2- Rodapé mal colocado.
 
+# Pontos Fortes
+1- Notícias bem conteúdistas.
+
+2- Gráficos interativos montados a partir de java.
+
+3- Funcionalidade da aplicação.
+
+4- Funcionalidade de cadastro e login.
 
 # Referências
 
