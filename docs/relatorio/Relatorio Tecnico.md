@@ -341,7 +341,7 @@ Os testes foram fundamentais para identificar falhas no desenvolvimento e na exp
 
 1- Barra de pesquisar não possuir funcionalidade.
 
-2- Rodapé mal colocado.
+2- Parte de comentários não funcional.
 
 # Pontos Fortes
 1- Notícias bem conteúdistas.
@@ -354,11 +354,7 @@ Os testes foram fundamentais para identificar falhas no desenvolvimento e na exp
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+## Fontes utilizadas para a idealização do projeto
+  https://www.bv.com.br/bv-inspira/seguranca/golpes-financeiros
+  https://www.serasa.com.br/premium/blog/4-golpes-comuns
+  https://www.youtube.com/watch?v=GDpi6QrN0Ws
