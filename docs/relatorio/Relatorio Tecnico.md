@@ -17,6 +17,8 @@ Os membros do grupo são:
 
 -Jancker Nicolas Yauri Lazo De La Vega 
 
+-Pedro Judice Quintanilha de Albuquerque
+
 -Pedro Lenti Barbosa 
 
 -Renan Rocha de Souza 
